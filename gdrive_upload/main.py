@@ -6,7 +6,7 @@ from googleapiclient.errors import HttpError
 
 
 #variables
-id = os.environ['ID']
+id = os.environ['gdrive_folder_id']
 
 
 def main():
